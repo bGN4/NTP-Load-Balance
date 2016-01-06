@@ -1,23 +1,23 @@
-Time inquiry without ACE,without lua
+Time inquiry without ACE, without lua
 
-Ê¹ÓÃËµÃ÷£º
+ä½¿ç”¨è¯´æ˜Žï¼š
 
 	Server:
 
-	Ä¬ÈÏÊ¹ÓÃRelease°æ±¾ÔËÐÐ£»
-	Ë«»÷¡°ÔËÐÐ_server(ÏÔÊ¾´°¿Ú).bat¡±¿ÉÒÔÕý³£ÔËÐÐServer£»
-	Ë«»÷¡°ÔËÐÐ_server(×îÐ¡»¯´°¿Ú).vbs¡±¿ÉÒÔ×îÐ¡»¯ÔËÐÐServer£»
-	Server¶ËÅäÖÃÐÅÏ¢Í¨¹ý²ÎÊý´«Èë£¬²ÎÊýµÄÒâÒåÔÚbat¡¢vbsÎÄ¼þÖÐÓÐËµÃ÷£»
+	é»˜è®¤ä½¿ç”¨Releaseç‰ˆæœ¬è¿è¡Œï¼›
+	åŒå‡»â€œè¿è¡Œ_server(æ˜¾ç¤ºçª—å£).batâ€å¯ä»¥æ­£å¸¸è¿è¡ŒServerï¼›
+	åŒå‡»â€œè¿è¡Œ_server(æœ€å°åŒ–çª—å£).vbsâ€å¯ä»¥æœ€å°åŒ–è¿è¡ŒServerï¼›
+	Serverç«¯é…ç½®ä¿¡æ¯é€šè¿‡å‚æ•°ä¼ å…¥ï¼Œå‚æ•°çš„æ„ä¹‰åœ¨batã€vbsæ–‡ä»¶ä¸­æœ‰è¯´æ˜Žï¼›
 
 	LB:
 
-	Ä¬ÈÏÊ¹ÓÃRelease°æ±¾ÔËÐÐ£»
-	Ë«»÷¡°ÔËÐÐ_LB(ÏÔÊ¾´°¿Ú).bat¡±¿ÉÒÔÕý³£ÔËÐÐLB.exe£»
-	LB¶ËÅäÖÃÐÅÏ¢Í¨¹ýÓëLB.exeÍ¬Ä¿Â¼µÄLB.cfgÅäÖÃÎÄ¼þ¶ÁÈ¡£¬Ã»ÓÐÔËÐÐ²ÎÊý£»
+	é»˜è®¤ä½¿ç”¨Releaseç‰ˆæœ¬è¿è¡Œï¼›
+	åŒå‡»â€œè¿è¡Œ_LB(æ˜¾ç¤ºçª—å£).batâ€å¯ä»¥æ­£å¸¸è¿è¡ŒLB.exeï¼›
+	LBç«¯é…ç½®ä¿¡æ¯é€šè¿‡ä¸ŽLB.exeåŒç›®å½•çš„LB.cfgé…ç½®æ–‡ä»¶è¯»å–ï¼Œæ²¡æœ‰è¿è¡Œå‚æ•°ï¼›
 
 	Client:
 
-	Ä¬ÈÏÊ¹ÓÃRelease°æ±¾ÔËÐÐ£»
-	Ë«»÷¡°ÔËÐÐ_client(ÏÔÊ¾´°¿Ú).bat¡±¿ÉÒÔÕý³£ÔËÐÐClient£»
-	Ë«»÷¡°ÔËÐÐ_client(×îÐ¡»¯´°¿Ú).vbs¡±¿ÉÒÔ×îÐ¡»¯ÔËÐÐClient£»
-	Client¶ËÅäÖÃÐÅÏ¢Í¨¹ý²ÎÊý´«Èë£¬²ÎÊýµÄÒâÒåÔÚbat¡¢vbsÎÄ¼þÖÐÓÐËµÃ÷£»
+	é»˜è®¤ä½¿ç”¨Releaseç‰ˆæœ¬è¿è¡Œï¼›
+	åŒå‡»â€œè¿è¡Œ_client(æ˜¾ç¤ºçª—å£).batâ€å¯ä»¥æ­£å¸¸è¿è¡ŒClientï¼›
+	åŒå‡»â€œè¿è¡Œ_client(æœ€å°åŒ–çª—å£).vbsâ€å¯ä»¥æœ€å°åŒ–è¿è¡ŒClientï¼›
+	Clientç«¯é…ç½®ä¿¡æ¯é€šè¿‡å‚æ•°ä¼ å…¥ï¼Œå‚æ•°çš„æ„ä¹‰åœ¨batã€vbsæ–‡ä»¶ä¸­æœ‰è¯´æ˜Žï¼›
